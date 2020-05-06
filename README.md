@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A basic react App that display Season using the user's geolocation.
+App covers the react functionality like props-system,state-system,class-component,functional component.
 
 ## Available Scripts
 
